@@ -1,0 +1,145 @@
+{
+  "./src/packages/components/_dummy": {
+    "files": {
+      "unitTest": [
+        "_dummy/specs/index.unit.test.tsx"
+      ]
+    },
+    "docs": {},
+    "data": {
+      "package": {
+        "name": "@advicefront/dummy",
+        "version": "1.0.1",
+        "description": "React button component",
+        "main": "index.tsx",
+        "repository": {
+          "type": "git",
+          "url": "git+https://github.com/Advicefront/fe-ds-poc.git"
+        },
+        "author": "",
+        "license": "ISC",
+        "bugs": {
+          "url": "https://github.com/Advicefront/fe-ds-poc/issues"
+        },
+        "dependencies": {
+          "@types/classnames": "^2.2.11",
+          "classnames": "^2.2.6"
+        },
+        "homepage": "https://github.com/Advicefront/fe-ds-poc#readme"
+      },
+      "testsCoverage": 64.135625
+    }
+  },
+  "./src/packages/components/base": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/button": {
+    "files": {
+      "unitTest": [
+        "button/specs/index.unit.test.tsx"
+      ]
+    },
+    "docs": {},
+    "data": {
+      "testsCoverage": 56.62125
+    }
+  },
+  "./src/packages/components/elevation": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/focus-trap": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/grid": {
+    "files": {
+      "unitTest": [
+        "grid/specs/Col.unit.test.tsx",
+        "grid/specs/Container.unit.test.tsx",
+        "grid/specs/Row.unit.test.tsx"
+      ]
+    },
+    "docs": {},
+    "data": {
+      "testsCoverage": 49.137
+    }
+  },
+  "./src/packages/components/helpers": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/loader": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/overlay": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/responsive": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/spinner": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/theme": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/components/typography": {
+    "files": {
+      "unitTest": [
+        "typography/specs/index.unit.test.tsx"
+      ]
+    },
+    "docs": {},
+    "data": {
+      "testsCoverage": 10.879999999999999
+    }
+  },
+  "./src/packages/layouts/page": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  },
+  "./src/packages/patterns/header": {
+    "files": {
+      "unitTest": []
+    },
+    "docs": {},
+    "data": {}
+  }
+}
